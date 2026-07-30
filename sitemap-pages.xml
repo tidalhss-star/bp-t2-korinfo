@@ -1,48 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://korinfo.shop/about.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://korinfo.shop/blog-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://korinfo.shop/column.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://korinfo.shop/digest.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://korinfo.shop/</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://korinfo.shop/posts/field_note-001-15rtoge.html</loc>
+    <loc>https://korinfo.shop/about.html</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://korinfo.shop/posts/field_note-001-5sdizm.html</loc>
+    <loc>https://korinfo.shop/column.html</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://korinfo.shop/posts/major_compare-002-3qtm7s.html</loc>
+    <loc>https://korinfo.shop/digest.html</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://korinfo.shop/posts/qa-003-plqr50.html</loc>
+    <loc>https://korinfo.shop/blog-3.html</loc>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
 </urlset>
