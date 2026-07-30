@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[서울 지역 정보 확인 순서]]></title>
+  <title><![CDATA[정보 블로그]]></title>
   <link>https://korinfo.shop</link>
-  <description><![CDATA[서울 정보 블로그 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 30 Jul 2026 03:34:43 GMT</pubDate>
-  <lastBuildDate>Thu, 30 Jul 2026 03:34:43 GMT</lastBuildDate>
+  <description><![CDATA[정보 블로그 - 지역 정보 확인 순서 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Thu, 30 Jul 2026 04:27:45 GMT</pubDate>
+  <lastBuildDate>Thu, 30 Jul 2026 04:27:45 GMT</lastBuildDate>
   <atom:link href="https://korinfo.shop/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[서울 지역 정보 확인 순서 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://korinfo.shop/</link>
-      <guid isPermaLink="true">https://korinfo.shop/</guid>
-      <description><![CDATA[서울 정보 블로그 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 30 Jul 2026 03:34:43 GMT</pubDate>
+      <title><![CDATA[편집대에서 본 타일러 더든 — 핀처가 프레임 속에 파묻은 진짜 이유 세 가지]]></title>
+      <link>https://korinfo.shop/posts/field_note-001-15rtoge.html</link>
+      <guid isPermaLink="true">https://korinfo.shop/posts/field_note-001-15rtoge.html</guid>
+      <description><![CDATA[파이트 클럽을 세 번 봤는데도 타일러가 영화 시작부터 나왔다는 말을 처음 들었다면, 당신은 극장에서 팝콘 씹느라 정신 팔렸거나 밀실 공포증 환자 쪽에 집중하고 있었을 거다. 24프레임, 1초도 안 되는 노출. 이게 데이빗 핀처가 심어놓은 최초의 함정이다. 나는 편집기사]]></description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[&#39;초판이 레어라고? 내가 감정해준다: 글룸헤이븐 1판 2판 진짜 차이는 이 7장에 있다&#39;]]></title>
+      <link>https://korinfo.shop/posts/field_note-001-5sdizm.html</link>
+      <guid isPermaLink="true">https://korinfo.shop/posts/field_note-001-5sdizm.html</guid>
+      <description><![CDATA[게임을 좋아한다는 사람들 사이에서 1판이 레전드라고 하더라. 근데 정작 까보면 그들도 '소생하는 에테르' 카드의 1판과 2판 차이를 정확히 말하는 사람은 드물어. 나는 중고로 보드게임을 매입하면서 이 7장의 카드 스탯이 말해주는 진짜 희소성의 기준을 배웠어. ## 현장]]></description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[유니콘 꿈, 그 순서가 해석을 바꾼다: 편집자가 본 파이널 컷의 반전]]></title>
+      <link>https://korinfo.shop/posts/major_compare-002-3qtm7s.html</link>
+      <guid isPermaLink="true">https://korinfo.shop/posts/major_compare-002-3qtm7s.html</guid>
+      <description><![CDATA[데커드가 피아노 앞에 앉아 사진들을 바라보는 그 장면, 아마 기억할 거야. 그 직후에 꿈속의 유니콘이 스쳐 지나간다. 불과 몇 초, 하지만 영화 전체의 무게를 바꿔버린 순간이다. 많은 사람들이 이 유니콘을 레플리컨트 정체성의 결정적 증거로 꼽지만, 실제 편집 테이블에서]]></description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[허점 장사꾼의 시선: 글룸헤이븐 1판·2판 클래스 카드 비교와 공식 룰북이 침묵하는 3가지 영역]]></title>
+      <link>https://korinfo.shop/posts/qa-003-plqr50.html</link>
+      <guid isPermaLink="true">https://korinfo.shop/posts/qa-003-plqr50.html</guid>
+      <description><![CDATA[탁자 위에 놓인 1판 `The Mind's Weakness`. 상대방은 2판 카드를 들고 있다. 똑같은 스턴 상황에서 당신의 평타는 2데미지, 상대는 1데미지+1버프. 공식 FAQ에서는 이 차이를 '밸런스 조정'이라는 한 줄로 뭉뚱그렸지만, 실제 테이블에서 이 미묘한 ]]></description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
