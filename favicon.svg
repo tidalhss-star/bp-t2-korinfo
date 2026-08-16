@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>t2-korinfo</title>
+  <rect width="64" height="64" rx="13" fill="hsl(32 73% 30%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(105 68% 69%)" opacity="0.16"/>
+  <g transform="rotate(180 32 32)"><circle cx="25" cy="32" r="13" fill="none" stroke="hsl(32 24% 96%)" stroke-width="8"/><circle cx="39" cy="32" r="13" fill="none" stroke="hsl(105 68% 69%)" stroke-width="8"/></g>
+</svg>
